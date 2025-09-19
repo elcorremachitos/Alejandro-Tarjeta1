@@ -63,6 +63,7 @@ body{
     width: 15px;
     height: 15px;
     border-radius: 5vh;
+    cursor: pointer;
 }
 
 .card_color1{
@@ -100,4 +101,5 @@ body{
     border: none;
     border-radius: 1vh;
     padding: 7px 6px;
+    cursor: pointer;
 }
