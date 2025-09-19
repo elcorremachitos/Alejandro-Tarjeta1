@@ -65,9 +65,12 @@ body{
     border-radius: 5vh;
     cursor: pointer;
 }
+.card_color1:hover, .card_color2:hover, .card_color3:hover{
+    transform: scale(1.4);
+}
 
 .card_color1{
-    background-color: yellow;
+    background-color: green;
 }
 
 .card_color2{
@@ -102,4 +105,9 @@ body{
     border-radius: 1vh;
     padding: 7px 6px;
     cursor: pointer;
+}
+
+.btn:hover{
+    background-color: darkorange;
+    transform: scale(1.05);
 }
