@@ -65,7 +65,8 @@ body{
     border-radius: 5vh;
     cursor: pointer;
 }
-.card:hover{
+
+.card-color:hover{
     transform: scale(1.4);
 }
 
