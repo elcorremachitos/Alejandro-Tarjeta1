@@ -93,6 +93,10 @@ body{
     margin-bottom: 20px;
 }
 
+.price-text{
+    color: green;
+}
+
 .card_add-to-cart{
     margin-bottom: 20px;
 }
