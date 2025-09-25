@@ -59,25 +59,25 @@ body{
     margin-bottom: 40px;
 }
 
-.card_color1, .card_color2, .card_color3{
+.card-color{
     width: 15px;
     height: 15px;
     border-radius: 5vh;
     cursor: pointer;
 }
-.card_color1:hover, .card_color2:hover, .card_color3:hover{
+.card:hover{
     transform: scale(1.4);
 }
 
-.card_color1{
+.color1{
     background-color: green;
 }
 
-.card_color2{
+.color2{
     background-color: blue;
 }
 
-.card_color3{
+.color3{
     background-color: red;
 }
 
